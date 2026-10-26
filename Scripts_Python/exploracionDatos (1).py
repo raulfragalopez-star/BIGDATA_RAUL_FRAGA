@@ -1,6 +1,6 @@
 
 import pandas as pd
-
+#comentario prueba
 # Sustituye esta ruta por la ruta REAL de tu CSV.
 ruta = r"C:\Users\raulf\Downloads\airbnb_benelux_clean_Tabla_sin_comas.csv"
 
